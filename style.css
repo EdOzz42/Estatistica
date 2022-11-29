@@ -1,3 +1,66 @@
+body {
+    font: Normal 15pt Arial;
+    background-color: rgb(70, 70, 70);
+    max-width: 800;
+    min-width: 300;
+    margin: auto;
+}
+
+.header {
+    background-color: rgb(141, 239, 111);
+    background-image: url(images/math.jpg);
+	background-size: cover;
+    background-position: 0px;
+    background-blend-mode: soft-light;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.content {
+    margin: 35px;
+    padding: 35px;
+    background-color: rgb(125, 125, 125);
+    border-radius: 10px;
+
+}
+
+input {
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.botoes:hover {
+    background-color: rgb(141, 239, 111);
+    border: 2px solid white;
+}
+
 select {
+    margin-top: 10px;
+    margin-bottom: 10px;
     width: 300px;
+    font-size: 20px;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.res {
+    margin-top: 10px;
+    padding: 1px;
+    padding-left: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(95, 255, 47);
+    background-color: rgb(95, 255, 47, 0.150);
+    border-radius: 5px;
+    border: 1px solid rgb(95, 255, 47);
 }
