@@ -7,3 +7,5 @@ Esse site é capaz de análisar os dados inseridos pelo usuário e transmitir:
 - Maior Valor;
 - Rol(crescente);
 - Quantidade de dados.
+
+Clique [aqui](https://edozz42.github.io/Estatistica/) para ver e fazer.
